@@ -33,10 +33,10 @@ Larguei o ensino médio técnico em edificações no último ano, para embalar n
 
 # 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaRitaCarvalho&theme=transparent&show_icons=true) </br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaRitaCarvalho&theme=transparent&hide_border=falso) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRitaCarvalho&layout=compact&langs_count=7&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritacarvalhodev&theme=transparent&show_icons=true) </br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ritacarvalhodev&theme=transparent&hide_border=falso) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarvalhodev&layout=compact&langs_count=7&theme=transparent)
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=MariaRitaCarvalho&label=Profile%20Views&color=1&icon=0&pretty=false)
+![](https://visitcount.itsvg.in/api?id=ritacarvalhodev&label=Profile%20Views&color=1&icon=0&pretty=false)
