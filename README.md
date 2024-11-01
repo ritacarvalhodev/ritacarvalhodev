@@ -2,9 +2,9 @@
 
 Larguei o ensino médio técnico em edificações no último ano, para embalar na área de tecnologia. Já pensei em ser arquiteta, tatuadora, jogadora de futebol, mas me encontrei de verdade em TI...
 
-**Atualmente:** Estudando [Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/) e utilizando a IDE IntelliJ, me familiarizando com Git e GitHub.
+**Atualmente:** Cursando Análise e Desenvolvimento de Sistemas pela Uninter
 
-**Estudando:** POO com Kotlin.
+**Estudando:** [Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/) e utilizando a IDE IntelliJ, me familiarizando com Git e GitHub.
 
 
 # 📧 Contato:
